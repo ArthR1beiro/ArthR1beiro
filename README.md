@@ -11,7 +11,7 @@
   <img align="center" alt="Arth-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Arth-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Arth-Csharp" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/c-original.svg">
-    <img align="right" alt="Arth-pic" height="150" style="border-radius:50px;" src="https://static.wikia.nocookie.net/hollowknight/images/1/16/Knight_Action.png/revision/latest/scale-to-width-down/250?cb=20190405190848">
+    <img align="right" alt="Arth-pic" height="150" style="border-radius:50px;" src="https://static.wikia.nocookie.net/hollowknight/images/6/66/Icon_HK_Vengeful_Spirit_Art.png/revision/latest?cb=20170416123901">
 </div>
   
   ##
