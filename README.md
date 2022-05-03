@@ -1,10 +1,12 @@
 ## I'm Arthur, a rookie front-end and Python developer from Brazil.
+I'm 20 years old and currently studying Cybersecurity, specializing my knowledge in the Python, basics knowledge in C and studying about HTML5 and CSS aiming the Backend, after experience in the administrative sector, I seek opportunity for career transition.
+
 
 
 <div align="center">
-   <a href="https://github.com/ArthR1beiro">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ArthR1beiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthR1beiro&layout=compact&langs_count=7&theme=dracula">
+  <a href="https://github.com/ArthR1beiro">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ArthR1beiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthR1beiro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 </div>
