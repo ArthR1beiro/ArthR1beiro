@@ -1,4 +1,4 @@
-## I'm Arthur, a rookie front-end and Python developer from Brazil.
+## Hi guys i'm Arthur, a rookie front-end and Python developer from Brazil.
 I'm 20 years old and currently studying Cybersecurity, specializing my knowledge in the Python, basics knowledge in C and studying about HTML5 and CSS aiming the Backend, after experience in the administrative sector, I seek opportunity for career transition.
 
 
