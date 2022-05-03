@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/ArthR1beiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthR1beiro&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthR1beiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthR1beiro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
@@ -34,8 +34,8 @@
  
 </div>
   
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/ArthR1beiro/ArthR1beiro/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ArthR1beiro/ArthR1beiro/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+
 
