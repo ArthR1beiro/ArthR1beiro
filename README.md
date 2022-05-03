@@ -11,7 +11,7 @@
   <img align="center" alt="Arth-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Arth-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Arth-Csharp" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/c-original.svg">
-    <img align="right" alt="Arth-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/64/9e/14/649e14b1a66cb436861a0d18d518106e.jpg">
+    <img align="right" alt="Arth-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/ea/55/c3/ea55c345c2480e4f6efa05fa94edb292.png">
 </div>
   
   ##
