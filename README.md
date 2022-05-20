@@ -33,9 +33,7 @@ I'm 20 years old and currently studying Cybersecurity, specializing my knowledge
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>   
  
-  ![Snake animation](https://github.com/ArthR1beiro/ArthR1beiro/blob/output/github-contribution-grid-snake.svg)
- 
- 
+ ![Snake animation](https://github.com/ArthR1beiro/ArthR1beiro/blob/output/github-contribution-grid-snake.svg)
 </div>
   
   
