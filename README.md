@@ -3,18 +3,18 @@ I'm 20 years old and currently studying Cybersecurity, specializing my knowledge
 
 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ArthR1beiro">
   <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=ArthR1beiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>   <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthR1beiro&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> -->
   
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Arth-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Arth-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Arth-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Arth-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Arth-Csharp" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/c-original.svg">
-  <img align="center" alt="Arth-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="right" alt="Arth-pic" height="150" style="border-radius:50px;" src="https://static.wikia.nocookie.net/hollowknight/images/6/66/Icon_HK_Vengeful_Spirit_Art.png/revision/latest?cb=20170416123901">
 </div>
   
