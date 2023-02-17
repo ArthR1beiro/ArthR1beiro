@@ -20,6 +20,7 @@ I'm 20 years old and currently studying Cybersecurity, specializing my knowledge
   <img align="center" alt="Arth-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Arth-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Arth-C" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/c-original.svg">
+  <img align="center" alt="Arth-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="right" alt="Arth-pic" height="150" style="border-radius:50px;" src="https://static.wikia.nocookie.net/hollowknight/images/6/66/Icon_HK_Vengeful_Spirit_Art.png/revision/latest?cb=20170416123901">
 </div>
   
